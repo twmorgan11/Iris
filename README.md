@@ -4,6 +4,8 @@ A tiny macOS menu bar app for adjusting your webcam: brightness, contrast, satur
 sharpness, gain, zoom, white balance, exposure, focus, backlight compensation and
 anti-flicker. A lightweight alternative to vendor apps like Logi Options+ / Logi Tune.
 
+<img src="docs/screenshot-menubar.webp" alt="Iris menu" width="540">
+
 - **Small:** a ~2 MB app using ~26 MB of memory, with no background services.
 - **Works everywhere:** talks to the camera directly over USB (UVC control requests via
   IOKit), so changes apply in Zoom, Teams, Meet, FaceTime, OBS, etc.
